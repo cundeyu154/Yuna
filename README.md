@@ -4,4 +4,4 @@
 - 姓名：寸得育
 - 系級：科技系117
 
-- [HW-1](https://github.com/cundeyu154/Yuna/blob/main/index.html)
+- [HW-1](https://cundeyu154.github.io/Yuna/)
