@@ -14,8 +14,10 @@
 -台灣排球資訊整合平台
 - [專題網站]:( https://one14-1-volleygo.onrender.com/)
 - [專題影片]: (https://youtu.be/JvZHsMg0NoM)
- (https://github.com/shuuuuyu/114-1-volleygo)
-- [其他連結]:
-    ( volleygo-api)
-    ( https://one14-1-volleygo-api.onrender.com/docs)
-    (volleygo-crawler)
+- [github link]: (https://github.com/shuuuuyu/114-1-volleygo)
+
+# 專題簡介
+
+- VOLLEY GO 整合台灣職業排球聯盟 (TPVL) 與企業排球聯賽 (TVL) 的賽事資訊，結合 AI 智能助理、社群互動與自動化更新，為排球愛好者打造一站式資訊平台。
+
+- 小組成員：41371101H 林書妤、41371107H 林家靖、41371127H 寸得育
