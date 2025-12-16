@@ -13,8 +13,8 @@
 
 -台灣排球資訊整合平台
 - [專題網站]:( https://one14-1-volleygo.onrender.com/)
-- [專題影片]: (https://youtu.be/JvZHsMg0NoM)
-- [github link]: (https://github.com/shuuuuyu/114-1-volleygo)
+- [專題影片]: ( https://youtu.be/JvZHsMg0NoM)
+- [github link]: ( https://github.com/shuuuuyu/114-1-volleygo)
 
 # 專題簡介
 
